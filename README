@@ -1,0 +1,29 @@
+# Hopsbook: An opinionated guide to homelabs, and everything you can do with one.
+
+Welcome to **Hopsbook**! Our goal is to create an open-source informational booklet to help others understand and get into the field of homelabbing. Whether you're new to homelabs or looking to expand your knowledge, this book will prepare you before and during your homelab adventure.
+
+## 📖 What is Hopsbook?
+
+Hopsbook is a community-driven project that aims to provide clear, beginner-friendly, and practical guidance on homelabbing. We believe in learning by doing, and our book will serve as a starting point for those interested in setting up their own home labs.
+
+## 🛠 Topics Covered
+
+TBD
+
+## 🚀 Get Involved
+
+Hopsbook is an open-source project, and we welcome contributions from the community! If you'd like to help, consider:
+
+- **Writing or editing content** – Share your expertise and improve our chapters.
+- **Providing feedback** – Suggest improvements and new topics.
+- **Testing guides** – Follow our steps and let us know what works and what doesn’t.
+
+## 📜 License
+
+Hopsbook is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
